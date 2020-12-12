@@ -1,0 +1,8 @@
+#include <cs50.h>
+#include <stdio.h>
+
+Int main (void)
+{
+String answer = get string ("what's your name\n");
+   Printf("hello %s\n",answer)
+}
